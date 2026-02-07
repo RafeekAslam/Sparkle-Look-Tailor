@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HOME – Sparkle Look Tailor</title>
+  <link rel="icon" href="images/logo.jpeg">
+  <link rel="stylesheet" href="fashion.css">
+  
+
+</head>
+<body>
+  
+<header>
+
+    <div class="bt">
+      <b>Sparkle L👀k</b>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+  
+    <nav class="navbar" id="navMenu">
+      <a href="about.html"><button><b>About </b></button></a>
+      <a href="gallery.html"><button><b>Gallery</b></button></a>
+      <a href="service.html"><button><b>Service</b></button></a>
+      <a href="contact.html"><button><b>Contact</b></button></a>
+    </nav>
+
+  <div class="center">
+    <h1><i>✨Welcome to Sparkle Look✨</i></h1>
+     
+    <h3 id="hm">"Where Every Stitch Brings Style to Life"</h3>
+    
+    <h4 id="hm">
+      🧶At Sparkle Look, we believe tailoring is not just stitching fabric - it’s about creating confidence.
+    <br>From precise cuts to elegant finishing, we design outfits that fit perfectly and make you stand out🧶
+    </h4>
+
+  </div>
+
+  
+
+<!-- script -->
+
+<script>
+
+  const menu = document.getElementById("navMenu");
+  const hamburger = document.querySelector(".hamburger");
+
+  function toggleMenu() {
+    menu.classList.toggle("active");
+  }
+
+  //  Click outside → close menu
+  document.addEventListener("click", function (e) {
+    if (!menu.contains(e.target) && !hamburger.contains(e.target)) {
+      menu.classList.remove("active");
+    }
+  });
+</script>
+
+</header> 
+</body>
+</html>
