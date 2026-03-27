@@ -17,19 +17,19 @@ A stylish and responsive tailor shop website built using HTML and CSS.
 ## 📸 Preview
 
 ### 🏠 Home Page
-![Home](images/screenshot1.jpeg)
+![Home](screenshot1.jpeg)
 
 ### 🧵 Services
-![Services](images/screenshot2.jpeg)
+![Services](screenshot2.jpeg)
 
 ### 🖼️ Gallery
-![Gallery](images/screenshot3.jpeg)
+![Gallery](screenshot3.jpeg)
 
 ### 👤 About
-![About](images/screenshot4.jpeg)
+![About](screenshot4.jpeg)
 
 ### 📬 Contact
-![Contact](images/screenshot5.jpeg)
+![Contact](screenshot5.jpeg)
 
 ## 🔗 Live Demo
 (https://rafeekaslam.github.io/Sparkle-Look-Tailor/)
