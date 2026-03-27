@@ -1,1 +1,41 @@
-# Sparkle-Look-Tailor
+# Sparkle Look Tailor Website ✨
+
+A stylish and responsive tailor shop website built using HTML and CSS.
+
+## 💡 Features
+- Elegant and modern design
+- Fully responsive layout
+- Service showcase section
+- Image gallery for designs
+- Contact section
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Javascipt (basic)
+
+## 📸 Preview
+
+### 🏠 Home Page
+![Home](images/screenshot1.jpeg)
+
+### 🧵 Services
+![Services](images/screenshot2.jpeg)
+
+### 🖼️ Gallery
+![Gallery](images/screenshot3.jpeg)
+
+### 👤 About
+![About](images/screenshot4.jpeg)
+
+### 📬 Contact
+![Contact](images/screenshot5.jpeg)
+
+## 🔗 Live Demo
+(https://rafeekaslam.github.io/Sparkle-Look-Tailor/)
+
+## 📬 Contact
+Feel free to reach out!
+📧 rfkaslam005@gmail.com  
+💻 GitHub: https://github.com/RafeekAslam
+🔗https://www.linkedin.com/in/Rafeek20Aslam25IT
